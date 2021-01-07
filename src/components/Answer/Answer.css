@@ -1,0 +1,5 @@
+.answer {
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: 6rem auto;
+}

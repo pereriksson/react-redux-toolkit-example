@@ -1,0 +1,14 @@
+.tag {
+    background: rgb(225, 236, 244);
+    color: rgb(57, 115, 157);
+    border-radius: .3rem;
+    padding: 0.3rem;
+    display: inline-block;
+    margin-right: .5rem;
+    font-size: .8rem;
+    text-decoration: none;
+}
+
+.tag:hover {
+    background: #D2E4F1;
+}

@@ -1,0 +1,7 @@
+.votes {
+    width: 36px;
+}
+
+.votes .count {
+    text-align: center;
+}

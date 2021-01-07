@@ -1,0 +1,23 @@
+.by {
+    background: #E1ECF4;
+    border-radius: .3rem;
+    width: 8rem;
+    float: right;
+    font-size: .8rem;
+    padding: .3rem;
+}
+
+.by * {
+    margin: 0;
+    padding: 0;
+}
+
+.action-time {
+    font-size: .8rem;
+    color: rgb(106, 115, 124);
+}
+
+.avatar {
+    width: 32px;
+    height: 32px;
+}
