@@ -15,7 +15,7 @@ npm start
 
 | Folder       | Purpose                                                                                         |
 |--------------|-------------------------------------------------------------------------------------------------|
-| apis         | APIs the application uses to do things. These are APIs for the application itself to do things. |
+| apis         | These are APIs for the application itself to do things.                                         |
 | components   | React components in their respective folders.                                                   |
 | redux        | Contains functions to retrieve the store form localStorage.                                     |
 | redux/slices | Contains Redux Toolkit slices (actions, action creaters and reducers) for the store.            |
